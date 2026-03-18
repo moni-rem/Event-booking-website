@@ -1,0 +1,1 @@
+require('dotenv/lib/main').config()
